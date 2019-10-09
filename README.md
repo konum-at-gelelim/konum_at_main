@@ -1,6 +1,6 @@
 # konum_at_main
 # main.py Furkan Güneştaş, Mümin Can Uçak ve Eren Güneştaş'ın ortak çalışmasıdır.
-# aşşağıdaki json paketleri göz alınarak hazırlanmıştır.
+#aşşağıdaki json paketleri göz alınarak hazırlanmıştır.
 
 
 # iha durum ve iha zincir bilgi paketi
