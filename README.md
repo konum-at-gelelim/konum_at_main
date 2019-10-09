@@ -13,6 +13,7 @@
     "speed":{
       "x":"60.0",
       "y":"10.0"
+      </br>
       },
       "fuel_reserve":"%100.0",
       "sensors":{
