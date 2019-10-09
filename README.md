@@ -94,8 +94,8 @@
 {
   "sim_env_parameters":{
     "level_difficulty":1,
-    "injured_pick_up_duration":30
-    ,"injured_pick_up_height":"15.0",
+    "injured_pick_up_duration":30,
+    "injured_pick_up_height":"15.0",
     "injured_release_duration":30,
     "injured_release_height":"15.0",
     "uav_communication_range":"1000.0",
