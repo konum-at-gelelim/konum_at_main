@@ -3,7 +3,7 @@
 # aşşağıdaki json paketleri göz alınarak hazırlanmıştır.
 
 
-#iha durum ve iha zincir bilgi paketi
+# iha durum ve iha zincir bilgi paketi
 {
   "active_uav":
   {
@@ -90,7 +90,7 @@
     }
 }
 
-#Simülasyon ortam parametre paketi
+# Simülasyon ortam parametre paketi
 {
   "sim_env_parameters":{
     "level_difficulty":1,
