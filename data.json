@@ -1,0 +1,85 @@
+{
+  "active_uav":
+  {
+    "location":"39.924980,32.836794",
+    "altitude":"1000",
+    "heading":"30.0",
+    "speed":{
+      "x":"60.0",
+      "y":"10.0"
+      },
+      "fuel_reserve":"%100.0",
+      "sensors":{
+        "logical_camera":
+        {"detected":[
+        {
+          "type":"casualty",
+          "status":"injured",
+          "pose":"39.924980,32.841231"
+          },
+          {
+            "type":"casualty",
+            "status":"healthy",
+            "pose":"39.944980,32.836794"
+          }
+        ]
+      }
+    },
+    "equipments":{
+      "telecom_beacon":{
+        "telecom_served_people_count":5
+        }
+      }
+    },
+    "uav_link":{
+      "uav_1":{
+        "location":"39.924980,32.836794",
+        "altitude":"1000",
+        "heading":"30.0",
+        "speed":{
+          "x":"60.0",
+          "y":"10.0"
+         }
+        },
+        "uav_2":{
+          "location":"39.924980,32.836794"
+          ,"altitude":"1000",
+          "heading":"30.0",
+          "speed":{
+            "x":"60.0",
+            "y":"10.0"
+            }
+          },
+          "uav_3":{
+            "location":"39.924980,32.836794",
+            "altitude":"1000",
+            "heading":"30.0",
+            "speed":{
+              "x":"60.0",
+              "y":"10.0"
+            }
+          }
+        },
+        "hospitals_in_range":[
+        {
+          "location":"39.933155,32.822292",
+          "hospital_quota":10
+        }
+      ],
+      "uav_guide":{  
+        "location":"39.924980, 32.836794",
+        "altitude":"1000",
+        "heading":"30.0",
+        "speed":{  
+          "x":"60.0",
+          "y":"10.0"
+          }
+                  "dispatch": False,
+        },"uav_formation": {
+          "type": "arrow",
+          "u_b": "25.0",
+          "u_a": "30.0",
+          "u_k": "25.0",
+          "a_k": "45.0"
+    }
+}
